@@ -24,7 +24,5 @@
     Example: jenkinsBuilder platforms: []
  */
 
-
-
 jenkinsBuilder()
 
