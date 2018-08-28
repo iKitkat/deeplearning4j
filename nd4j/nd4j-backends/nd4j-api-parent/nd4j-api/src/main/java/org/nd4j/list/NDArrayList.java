@@ -39,8 +39,6 @@ public class NDArrayList extends  BaseNDArrayList<Double>  {
     private INDArray container;
     private int size;
 
-
-
     /**
      * Initialize with the desired size.
      * This will set the list.size()
